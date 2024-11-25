@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\haral\\Desktop\\MongoDBProjecy\\",
+  "WorkspaceRootPath": "C:\\Users\\haral\\Documents\\GitHub\\MongoDBProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB211501-891D-43EB-845D-8BCB0AA4A202}|MongoDBProjecy\\MongoDBProjecy.csproj|c:\\users\\haral\\desktop\\mongodbprojecy\\mongodbprojecy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB211501-891D-43EB-845D-8BCB0AA4A202}|MongoDBProjecy\\MongoDBProjecy.csproj|c:\\users\\haral\\documents\\github\\mongodbproject\\mongodbprojecy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB211501-891D-43EB-845D-8BCB0AA4A202}|MongoDBProjecy\\MongoDBProjecy.csproj|solutionrelative:mongodbprojecy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\haral\\Desktop\\MongoDBProjecy\\MongoDBProjecy\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\MongoDBProject\\MongoDBProjecy\\Program.cs",
               "RelativeDocumentMoniker": "MongoDBProjecy\\Program.cs",
-              "ToolTip": "C:\\Users\\haral\\Desktop\\MongoDBProjecy\\MongoDBProjecy\\Program.cs",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\MongoDBProject\\MongoDBProjecy\\Program.cs",
               "RelativeToolTip": "MongoDBProjecy\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T08:10:33.417Z",
               "EditorCaption": ""
